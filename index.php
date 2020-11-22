@@ -11,8 +11,8 @@ include_once './includes/bdd.inc.php';
         <h1>Ajouter</h1>
         <div class="form-group">
 
-            <label for="exampleInputEmail1">pseudo</label>
-            <input type="text"  class="form-control" id="user" name="user" aria-describedby="emailHelp" placeholder="pseudo">
+            <label for="exampleInputEmail1">email</label>
+            <input type="text"  class="form-control" id="user" name="user" aria-describedby="emailHelp" placeholder="lucasDubois@gmail.com">
                                     
         </div>
                                     
